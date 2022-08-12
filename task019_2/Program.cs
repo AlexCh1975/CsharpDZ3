@@ -5,9 +5,11 @@
     14212 -> нет
     12821 -> да
     23432 -> да
+
+    !!! Попробовал реализовать задачу так, чтобы можно бало проверять любые числа.
 */
 
-//Console.Clear();
+Console.Clear();
 
 Console.Write("Введите число в диапазоне Int32: ");
 Console.ForegroundColor = ConsoleColor.Yellow;
